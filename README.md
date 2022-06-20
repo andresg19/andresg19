@@ -1,6 +1,6 @@
 # **Hola! Mi nombre es Andrés Germain, soy un Full Stack Developer**:computer:!👋
 
-##:wrench: ## Herramientas de trabajo
+##:wrench:  Herramientas de trabajo
 
 ###Tecnologías:pushpin:
 JavaScript
