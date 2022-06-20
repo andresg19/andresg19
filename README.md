@@ -32,8 +32,8 @@ Puede ver el proyecto desde este enlace :point_right: https://front-deploy-navy.
 
 ## Contacto 
 
-- [LinkedIn](https://www.linkedin.com/in/andres-germain-dev/) :mailbox_with_mail: 
-- Email: andygermain17@gmail.com :inbox_tray:
+- [LinkedIn](https://www.linkedin.com/in/andres-germain-dev/) 
+- Email: andygermain17@gmail.com :mailbox_with_mail: 
 - Teléfono: +5493463405085 :calling:
 
 
