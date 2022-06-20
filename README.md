@@ -16,9 +16,19 @@ Deployment: Heroku - Vercel
 
 ## Proyectos :briefcase:
 
-### E-Commerce 'El bar de Toni'. Tienda de bebidas alcohólicas :pushpin:
+### E-Commerce (PROYECTO FINAL GRUPAL HENRY) 'El bar de Toni'. Tienda de bebidas alcohólicas :pushpin:
 Puede ver el proyecto desde este enlace :point_right: https://elbardetonibebidas.vercel.app/
 
-![El bar de Toni](https://imgur.com/YDP6YsC)
+
+### Pókemon-APP (PROYECTO INDIVIDUAL HENRY) :pushpin:
+Puede ver el proyecto desde este enlace :point_right: https://front-deploy-navy.vercel.app/
+
+
+## Contacto 
+
+[LinkedIn](https://www.linkedin.com/in/andres-germain-dev/) :mailbox_with_mail: 
+Email: andygermain17@gmail.com :inbox_tray:
+Teléfono: +5493463405085 :calling:
+
 
 
