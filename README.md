@@ -4,7 +4,7 @@
 
 ### Tecnologías:pushpin:
 JavaScript
-React - Redux - CSS Modules / Styles Components / Bootstrap
+React - Redux - CSS Modules / Styles Components / Bootstrap -
 NodeJs - Express
 PostgreSQL - Sequelize
 
@@ -13,5 +13,12 @@ Trabajo: GIT
 Trabajo: SCRUM (Metodología)
 Deployment: Heroku - Vercel
 
+
+## Proyectos :briefcase:
+
+### E-Commerce 'El bar de Toni'. Tienda de bebidas alcohólicas :pushpin:
+Puede ver el proyecto desde este enlace :point_right: https://elbardetonibebidas.vercel.app/
+
+![El bar de Toni](https://imgur.com/YDP6YsC)
 
 
