@@ -20,7 +20,23 @@
 - Trabajo: GIT
 - Trabajo: SCRUM (Metodología)
 - Deployment: Heroku - Vercel
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
+  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+  <br />
+</p>
 
+&nbsp;
 
 ## Proyectos :briefcase:
 
@@ -31,15 +47,15 @@ Puede ver el proyecto desde este enlace :point_right: https://elbardetonibebidas
 ### Pókemon-APP (PROYECTO INDIVIDUAL HENRY) :pushpin:
 Puede ver el proyecto desde este enlace :point_right: https://front-deploy-navy.vercel.app/
 
+&nbsp;
+
 
 ## Contacto 
 <span >
 <a href="https://www.linkedin.com/in/andres-germain-dev/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
 <a href="mailto:andygermain17@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
 </span>
-- [LinkedIn](https://www.linkedin.com/in/andres-germain-dev/) 
-- Email: andygermain17@gmail.com :mailbox_with_mail: 
-- Teléfono: +5493463405085 :calling:
+
 
 
 
