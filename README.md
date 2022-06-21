@@ -8,10 +8,9 @@
 - JavaScript
 - React 
 - Redux 
-- CSS Modules  
-- Styles Components 
+- CSS
 - Bootstrap 
-- NodeJs 
+- NodeJS
 - Express
 - PostgreSQL 
 - Sequelize
