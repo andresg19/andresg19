@@ -9,10 +9,12 @@
 - React 
 - Redux 
 - CSS
+- MaterialUI
 - Bootstrap 
 - NodeJS
 - Express
 - PostgreSQL 
+- MongoDB
 - Sequelize
 
 ### Otras herramientas:pushpin:
