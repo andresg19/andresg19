@@ -6,7 +6,8 @@
 
 ### Tecnologías:pushpin:
 - JavaScript
-- React 
+- React
+- React-Query
 - Redux 
 - CSS
 - MaterialUI
@@ -15,7 +16,7 @@
 - Express
 - PostgreSQL 
 - MongoDB
-- Sequelize
+
 
 ### Otras herramientas:pushpin:
 - Trabajo: GIT
