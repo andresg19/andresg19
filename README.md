@@ -10,6 +10,7 @@
 - React-Query
 - Redux 
 - CSS
+- Tailwind 
 - MaterialUI
 - Bootstrap 
 - NodeJS
@@ -19,8 +20,9 @@
 
 
 ### Otras herramientas:pushpin:
-- Trabajo: GIT
-- Trabajo: SCRUM (Metodología)
+- GIT
+- GitLab
+- SCRUM 
 - Deployment: Heroku - Vercel
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
